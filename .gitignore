@@ -1,0 +1,19 @@
+# Maven #
+/target/
+
+# Eclipse #
+.settings/
+.svn/
+/.classpath
+/.project
+/.metadata/
+/Servers/
+/RemoteSystemsTempFiles/
+/lib/
+
+# IDEA #
+.idea/
+*.iml
+
+# Project #
+log/
